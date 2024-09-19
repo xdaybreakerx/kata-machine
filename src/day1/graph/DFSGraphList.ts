@@ -1,3 +1,4 @@
+// O(V + E)
 function walk(
     graph: WeightedAdjacencyList,
     curr: number,

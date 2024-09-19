@@ -1,3 +1,4 @@
+// O(V + E)
 export default function bfs(
     graph: WeightedAdjacencyMatrix,
     source: number,
